@@ -1,0 +1,107 @@
+
+  h1 {  color: black;
+    text-align: center;
+    border-color: black;
+    border-style: solid;
+    background-color: aqua;
+    background-size: contain;
+    font-weight: bolder;
+    margin-top: 1rem;
+    font-size: 40px;
+    border-width: 5px;
+    
+
+}
+p1  {
+    color: black;
+    text-align: center;
+    text-decoration: solid;
+    font-size: 20px;
+    
+    
+}
+body {
+    background-color: black;
+    background-color: beige;
+    text-align: center;
+    
+    
+}
+div {
+    height: 300px;
+    width: 350px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+    
+}
+
+#box0 {
+    
+text-align: center;
+text-decoration: solid;
+    background-image: url(newwwww.jpg);
+    background-size: cover;
+}
+#box1 {
+    background-image: url("paper.jpg");
+    background-size: cover;
+
+}
+#box2 {
+    background-image: url("WhatsApp Image 2024-01-25 at 15.08.09_87d37ace.jpg");
+    background-size: cover;
+}
+
+#box3 {
+    background-image: url("IMG-20240125-WA0032.jpg");
+    background-size: cover;
+    
+}
+#box4 {
+    background-image: url("IMG-20240125-WA0024.jpg");
+    background-size: cover;
+}
+#box5 {
+    background-image: url("IMG-20240125-WA0027.jpg");
+    background-size: cover;
+}
+#box6 {
+    background-image: url("IMG-20240125-WA0052.jpg");
+    background-size: cover;
+}
+#box7 {
+    background-image: url("WhatsApp Image 2024-01-25 at 14.31.31_b788d327.jpg");
+    background-size: cover;
+}
+#box8 {
+    background-image: url("IMG-20240125-WA0033.jpg");
+    background-size: cover;
+}
+
+
+button {
+    background-color: lightgreen;
+    text-align: center;
+    text-decoration: solid;
+    display: inline-block;
+    font-size: 16px;
+    border-color: 2px solid red;
+    border-style: solid;
+    
+    
+    
+}
+button:hover {
+    cursor: alias;
+    background-color: aquamarine;
+    cursor: pointer;
+}
+
+
+
+p {
+    text-align: left;
+    text-align: center;
+
+}
